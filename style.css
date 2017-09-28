@@ -87,7 +87,7 @@ ul {
 }
 
 .expandImage {
-	width: 10%;
+	min-width: 46px;
 	min-height: 37px;
 	background: url(images/left-0.png) no-repeat;
 }
