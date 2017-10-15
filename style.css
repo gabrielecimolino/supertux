@@ -18,6 +18,10 @@ ul {
 	text-align: center;
 }
 
+img {
+	margin: auto;
+}
+
 .titleArea {
 	background-color: #A0CED9;
 	height: 10vh;
