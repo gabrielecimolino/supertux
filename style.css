@@ -21,6 +21,7 @@ ul {
 img {
 	margin: auto;
 	display: block;
+	max-width: 70%;
 }
 
 .titleArea {
